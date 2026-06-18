@@ -68,7 +68,7 @@ The objective is to centralize VPN access requests, automate approval workflows,
 | React Frontend                                         |
 |--------------------------------------------------------|
 | VPN Request Portal                                     |
-| Administration Portal                                 |
+| Administration Portal                                  |
 | Security Dashboard                                     |
 +--------------------------------------------------------+
 ```
