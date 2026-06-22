@@ -1,15 +1,37 @@
+## Monitoring Screen
 ![Monitoring screen](monitoring.png)
+
 ---
-![vpn requests screen](vpn-requests.png)
+
+## VPN Requests Screen
+![VPN requests screen](vpn-requests.png)
+
 ---
-![vpn users screen](vpn-users.png)
+
+## VPN Users Screen
+![VPN users screen](vpn-users.png)
+
 ---
-![alerts first screen](alerts-1.png)
+
+## Alerts - First Screen
+![Alerts first screen](alerts-1.png)
+
 ---
-![alerts second screen](alerts-2.png)
+
+## Alerts - Second Screen
+![Alerts second screen](alerts-2.png)
+
 ---
-![blocked devices screen](blocked-devices.png)
+
+## Blocked Devices Screen
+![Blocked devices screen](blocked-devices.png)
+
 ---
-![app users screen](app-users.png)
+
+## App Users Screen
+![App users screen](app-users.png)
+
 ---
-![audit logs screen](audit-logs.png)
+
+## Audit Logs Screen
+![Audit logs screen](audit-logs.png)
